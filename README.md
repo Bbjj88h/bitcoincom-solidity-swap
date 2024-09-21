@@ -1,4 +1,4 @@
-# bitcoincom-solidity-swap
+bjacentah@gmail.com bitcoincom-solidity-swap
 
 This repository contains smart-contracts for the swap between token A and token B or
 token A to ETH / ETH to token A.
